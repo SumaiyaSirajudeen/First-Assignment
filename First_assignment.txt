@@ -1,6 +1,6 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
 
-
+I have been always interested in bioinformatics, as the world is developing rapidly due to technology. Integration of Biology and Information technology are one of the biggest needs of the hour, hence it is important to learn concepts in bioinformatics to improvize on biological data processing and handling.
 
 
 
@@ -10,3 +10,5 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+
+I expect to learn more about computational biology, to learn on various platforms and tools used to view and edit gene and protein data, docking and simulation of biological data.
